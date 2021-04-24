@@ -1,0 +1,80 @@
+#line{
+      text-decoration-line: none;
+      font-size: 14px;
+     }
+#icon{
+   font-size: 45px;
+}
+#anch{
+	text-decoration-line: none;
+	font-size: 13px;
+	color: black;
+}
+#our1{
+	font-size: 50px;
+}
+
+#our2{
+	font-size: 50px;
+}
+#our3{
+	font-size: 25px;
+}
+#our4{
+	font-size: 25px;
+}
+.fa-smile-o{
+	font-size: 50px;
+}
+.fa-file-text-o{
+	font-size: 50px;
+}
+.fa-users{
+	font-size: 50px;
+}
+.fa-trophy{
+	font-size: 50px;
+}
+.countup-section{
+	background-color: #2E4053 ;
+}
+.student-say{
+	background-color: #2E4053;
+}
+.btn{
+	background-color: #2E4053;
+}
+#border{
+	border-bottom: 1px dotted white;
+}
+#border-b{
+   border-bottom: 1px dotted white;
+}
+#btn-color1{
+   background-color:  #022B56;
+}
+#hov:hover{
+	color:#fff !important;
+	background-color: #022B56;
+	border-left: 3px solid #DE3163;
+}
+#slide .d-block{
+	width: 100%;
+	height: 600px;
+}
+#on-img1{
+   top:300px;
+   left: 100px;
+}
+#feature-hover:hover{
+    background-color: #2A39AA  !important;
+}
+#choose-hover:hover{
+	box-shadow: 0px 0px 10px 3px #5DADE2;
+}
+#teachers-hover:hover{
+    background-color: #2A39AA !important;
+}
+#teachers-hover2:hover{
+	background-color:#2A39AA !important; 
+}
